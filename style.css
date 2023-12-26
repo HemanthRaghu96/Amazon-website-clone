@@ -1,0 +1,48 @@
+.header {
+  color: white;
+}
+.navbarupper {
+  display: flex;
+  align-items: center;
+  height: 55px;
+  background-color: #0f1111;
+}
+.headerimagelogo{
+   
+    height: 50px;
+    padding: 5px; 
+    width: 70px; 
+}
+h1{
+    color: white;
+    font-size: small;
+    height: 50px;
+    width: 100px;
+    
+}
+.spanheaderitem{
+    font-size: 20px;
+}
+.navbarlower {
+  height: 35px;
+  background-color: rgb(12, 46, 52);
+}
+.selectlanguage{
+    display: flex;
+}
+.headinglocation{
+    width: 100px;
+    align-content: center;
+}
+.headersearch{
+    align-items: center;
+    width: 950px;
+}
+.headerinput{
+    width: 700px;
+    align-self: center;
+}
+.headerlist{
+    padding: 10px;
+    margin: 10px;
+}
